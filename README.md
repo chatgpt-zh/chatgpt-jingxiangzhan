@@ -29,12 +29,12 @@
 
 我精心挑选了一些国内最优质的 ChatGPT 镜像站点，提供多种选择，绝大部分都是免费使用。
 
-| 序号 | 网站链接  | 说明 |推荐指数|
-|--------------|--------------|--------------|--------------|
-| 1  | [www.yixiaai.com](https://www.yixiaai.com) |ChatGPT综合网站 |⭐⭐⭐⭐⭐|
-| 2  | [chat.lify.vip](https://chat.lify.vip) | ChatGPT推荐AI对话站，支撑所有模型且无限制使用 | ⭐⭐⭐⭐⭐ |
-| 3  | [AI智绘](https://cgn.lify.vip) | 集成ChatGPT对话和MJ AI绘画站|  ⭐⭐⭐⭐   |
-| 4  | [ChatGPT写作](https://xie.yixia.ai/) | 集成ChatGPT对话和AI写作|⭐⭐⭐ |
+| 序号 | 网站链接  | 说明 |推荐指数 |
+|------|-----------|------|---------|
+| 1    | [www.yixiaai.com](https://www.yixiaai.com) | ChatGPT综合网站 | ⭐⭐⭐⭐⭐ |
+| 2    | [chat.lify.vip](https://chat.lify.vip) | ChatGPT推荐AI对话站，支撑所有模型且无限制使用 | ⭐⭐⭐⭐⭐ |
+| 3    | [AI智绘](https://cgn.lify.vip) | 集成ChatGPT对话和MJ AI绘画站 | ⭐⭐⭐⭐ |
+| 4    | [ChatGPT写作](https://xie.yixia.ai/) | 集成ChatGPT对话和AI写作 | ⭐⭐⭐ |
 
 ## **常见问题解答**
 
